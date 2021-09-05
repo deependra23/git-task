@@ -1,5 +1,7 @@
 package com.mycompany.gittask.model;
 
+import java.util.Locale;
+
 public class AuthorList {
 
     private int id;
